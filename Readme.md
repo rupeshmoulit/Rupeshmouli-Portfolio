@@ -1,3 +1,3 @@
 # RupeshMouli-Portfolio
 
-This site tells about my Work Experience and Intrests.
+This site tells about my Work Experience and Interests.
